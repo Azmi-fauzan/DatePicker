@@ -10,6 +10,6 @@ klik yes akan otomatis keluar dari aplikasi
 ## Screenshoot Tampilan Dan Output
 <li>Gambar Tampilan: <a href="https://github.com/Azmi-fauzan/DatePicker/blob/master/Tampilan%20Aplikasi.png">Tampilan</a></li>
 <li>Gambar Kode: <a href="https://github.com/Azmi-fauzan/DatePicker/blob/master/Tampilan%20Aplikasi.png">Kode</a></li>
-<li>Gambar Output Toast: <a href="https://github.com/Azmi-fauzan/DatePicker/blob/master/Output%20Toast.png">Kode</a></li>
-<li>Gambar Output Alert: <a href="https://github.com/Azmi-fauzan/DatePicker/blob/master/Output%20Alert.png">Kode</a></li>
+<li>Gambar Output Toast: <a href="https://github.com/Azmi-fauzan/DatePicker/blob/master/Output%20Toast.png">Output Toast</a></li>
+<li>Gambar Output Alert: <a href="https://github.com/Azmi-fauzan/DatePicker/blob/master/Output%20Alert.png">Output Alert</a></li>
 
